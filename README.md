@@ -1,7 +1,6 @@
 # HabotConnect — LSA Booking Backend Prototype
 
-**Candidate:** Swapnil — 6388613403 — swapnil2472002@gmailcom — (https://github.com/Swapnilonly)
-> Fill in your name, phone, and email above before submitting.
+**Candidate:** Swapnil — 6388613403 — swapnil2472002@gmail.com — (https://github.com/Swapnilonly)
 
 **Live demo:** https://habotconnect-backend.onrender.com
 **Repository:** https://github.com/Swapnilonly/Hobot_Booking_Assignment
